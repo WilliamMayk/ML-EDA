@@ -1,0 +1,13 @@
+Reflection, Documentation & GitHub best practices
+
+• What were the most surprising insights from this dataset?
+
+It was surprising to see how gender significantly influences the choice of dating apps. For instance, certain apps like Hinge and Bumble were more popular among non-binary users, while Tinder had a more balanced distribution across genders.
+
+• What would you do differently if given more time?
+
+I would have conducted more advanced statistical analyses, such as regression models, to understand the factors influencing user satisfaction and app preferences more deeply.
+
+• How can we improve dataset documentation for others?
+
+By including information on how the data was collected, the time period, and any sampling methods used. This helps users understand the context and potential biases in the data.
