@@ -1,0 +1,13 @@
+Final Challenge
+
+1. If a dating app wanted to expand into rural India, which insights from this dataset would be most valuable?
+
+The age and gender patterns in this information will be useful because they show that younger users (18–22) are more engaged, which allows them to target members of this demographic in remote areas. What features individuals like and which apps are more popular would be further insights.
+
+2. If you were designing a new dating app based on this data, what two features would you add?
+
+AI-Powered Matchmaking and an Enhanced Safety features
+
+3. What were the biggest data cleaning challenges in this dataset?
+
+The biggest challenge had to do with missing values. 
